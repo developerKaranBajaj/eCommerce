@@ -9,4 +9,3 @@ The Features of This Application is :
 4. Single Activity Model with reusable Fragments.
 5. Show Product Details.
 6. Add any product to cart and update total item count and amount.
-7. 
