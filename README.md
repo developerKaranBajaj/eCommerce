@@ -11,8 +11,5 @@ The Features of This Application is :
 6. Add any product to cart and update total item count and amount.
 
 
-![](screenshots/1.jpg)  ![](screenshots/2.jpg)
- ![](screenshots/3.jpg)
- 
- ![](screenshots/4.jpg)
- ![](screenshots/5.jpg)
+![](screenshots/1.jpg) ![](screenshots/3.jpg) ![](screenshots/2.jpg)
+![](screenshots/4.jpg) ![](screenshots/5.jpg)
